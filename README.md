@@ -1,6 +1,6 @@
-#  :rainbow: <center>shanhe_university
+# <center><center>:rainbow: shanhe_university
 
-<center><img src="./photo/logo.png" style="zoom: 50%;" />		
+<center><img src="./photo/logo.png" style="zoom: 30%;" />		
 
 ​		山河大学（SHANHE University）,坐落于虚拟世界山河四省交界处，系山河四省直属的重点大学，第一所元宇宙高等学府，唯一入选“114工程”、“514工程”的院校，拥有一体化自主成才培养体系和科学研究技术交流中心，学子科学研究技术的基地，被誉为“全年龄人才的摇篮”“中原人才培训基地”，“梦想实现基地”“见习单位”。
 山河大学，山东山西谓之山，河南河北谓之河，兼爱大成谓之大，博学求知谓之学，是第一所由山河四省学子自主创办的虚拟性综合性大学。创立于2023年6月28日，创办之初，立即引起社会千万学子广泛关注。
