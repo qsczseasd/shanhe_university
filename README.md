@@ -1,5 +1,6 @@
-# :rainbow: shanhe_university
-
+![输入图片说明](%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%E6%95%99%E5%8A%A1%E5%A4%84/%E6%A0%A1%E8%AE%AD.png)![输入图片说明](%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%E6%95%99%E5%8A%A1%E5%A4%84/%E6%A0%A1%E5%90%8D.png)# :rainbow: shanhe_university
+![输入图片说明](%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%E6%95%99%E5%8A%A1%E5%A4%84/%E6%A0%A1%E5%BE%BD.png)
+![输入图片说明](%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%E6%95%99%E5%8A%A1%E5%A4%84/%E6%A0%A1%E6%A0%87.png)
 <img src="./photo/logo.png" style="zoom: 30%;" />		
 
 ​		山河大学（SHANHE University）,坐落于虚拟世界山河四省交界处，系山河四省直属的重点大学，第一所元宇宙高等学府，唯一入选“114工程”、“514工程”的院校，拥有一体化自主成才培养体系和科学研究技术交流中心，学子科学研究技术的基地，被誉为“全年龄人才的摇篮”“中原人才培训基地”，“梦想实现基地”“见习单位”。
