@@ -1,4 +1,4 @@
-#  :rainbow: <center> shanhe_university
+#  :rainbow: <center> shanhe_university </center>
 
 <center><img src="./photo/logo.png"/>		
 
