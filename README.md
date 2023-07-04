@@ -82,6 +82,9 @@
 ![](./photo/生活群/食堂.jpg)
 
 
+[Telegram 山河大学CSHU](https://t.me/+lmPzkB59q0g0ZTE1)
+
+
 
 
 
